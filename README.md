@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akua Konadu 
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Software Development
+- 🌱 I’m currently working as a Software Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
